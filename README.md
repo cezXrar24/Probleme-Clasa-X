@@ -1,1 +1,1 @@
-# Secventa-crescatoare
+# Probleme informatica clasa 10
