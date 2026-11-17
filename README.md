@@ -1,1 +1,1 @@
-# Secventa-crescatoare
+# Probleme informatica Clasa a X-a
